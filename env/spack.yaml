@@ -7,6 +7,10 @@ spack:
   specs:
   - cmake
   - boost
+  - qt-base+opengl
+  - ninja
+
   view: true
   concretizer:
     unify: true
+    reuse: false
