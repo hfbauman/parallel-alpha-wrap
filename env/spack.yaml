@@ -9,6 +9,7 @@ spack:
   - boost
   - qt-base+opengl
   - ninja
+  - paraview
 
   view: true
   concretizer:
