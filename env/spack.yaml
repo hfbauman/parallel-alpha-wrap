@@ -10,6 +10,7 @@ spack:
   - qt-base+opengl
   - ninja
   - paraview
+  - llvm
 
   view: true
   concretizer:
